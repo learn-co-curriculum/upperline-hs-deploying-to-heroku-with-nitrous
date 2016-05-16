@@ -1,0 +1,10 @@
+tags: # scalar that points to an array
+  - devops
+  - heroku
+  - nitrous
+  - deployment
+languages:
+  - ruby
+level: beginner
+type:
+  - readme
